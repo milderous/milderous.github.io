@@ -27,7 +27,3 @@ Always ensure adherence to Roblox's terms of service and guidelines when utilizi
 for support, discussions, and feedback. Your experience matters, and your insights contribute to refining this tool for the benefit of the Nvidia-equipped Roblox community. if you have any questions please visit https://milderous.github.io/
 
 Embark on a visually enriched gaming journey with Game Filters for Roblox – exclusively for Nvidia users, where your imagination meets reality!
-
-## info about release
-this is my main github repo, here is where you can find my shaders installer and various other cool things
-v1.0.9 goes live on sunday 9pm est
